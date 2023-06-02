@@ -22,4 +22,4 @@ Projeto do [Professor Leonid](https://github.com/fernandoleonid) que fiz para co
 ---
 
 ## Autor 
-- [Oswaldo Barbosa](https://www.linkedin.com/in/oswaldo-barbosa/)'
+- [Oswaldo Barbosa](https://www.linkedin.com/in/oswaldo-barbosa/)
