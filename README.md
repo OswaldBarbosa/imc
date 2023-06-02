@@ -2,9 +2,9 @@
 
 ---
 
-![](./img/portfolio.PNG)
+![](./img/imc.PNG)
 
-[Clique aqui](https://oswaldbarbosa.github.io/portfolio/) para acessar o site
+[Clique aqui](https://oswaldbarbosa.github.io/imc/) para acessar o site
 
 ---
 
@@ -22,5 +22,4 @@ Projeto do [Professor Leonid](https://github.com/fernandoleonid) que fiz para co
 ---
 
 ## Autor 
-- [Oswaldo Barbosa](https://www.linkedin.com/in/oswaldo-barbosa/)
-# portfolio
+- [Oswaldo Barbosa](https://www.linkedin.com/in/oswaldo-barbosa/)'
