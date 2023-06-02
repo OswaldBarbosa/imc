@@ -9,7 +9,7 @@
 ---
 
 ## Sobre
-Projeto do [Professor Leonid](https://github.com/fernandoleonid)) que fiz para consolidar meus conhecimentos em JavaScript.
+Projeto do [Professor Leonid](https://github.com/fernandoleonid) que fiz para consolidar meus conhecimentos em JavaScript.
 
 ---
 
